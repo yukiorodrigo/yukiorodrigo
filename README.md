@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Engenheiro, Residente em Inteligência Artificial e Cientista de Dados. Tenho interesse em aplicar minhas habilidades em IA, Ciência de Dados e Machine Learning no desenvolvimento de projetos que agreguem valor. Acredito na colaboração e no aprendizado contínuo como base para unir teoria e prática, transformando ideias em soluções práticas e inovadoras.</p>
+<p align="left">Residente em Inteligência Artificial, Cientista de Dados e Engenheiro. Tenho interesse em aplicar minhas habilidades em IA, Ciência de Dados e Machine Learning no desenvolvimento de projetos que agreguem valor. Acredito na colaboração e no aprendizado contínuo como base para unir teoria e prática, transformando ideias em soluções práticas e inovadoras.</p>
 
 ###
 
