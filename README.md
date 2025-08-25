@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="left">Rodrigo Yukio</h1>
 
-<!--
-**yukiorodrigo/yukiorodrigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Engenheiro, Residente em Inteligência Artificial e Cientista de Dados. Tenho interesse em aplicar minhas habilidades em IA, Ciência de Dados e Machine Learning no desenvolvimento de projetos que agreguem valor. Acredito na colaboração e no aprendizado contínuo como base para unir teoria e prática, transformando ideias em soluções práticas e inovadoras.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDlyb3doYmxtOWVkbGpsZnhheWFpOG1rOHY0cGZxZnp2c3Buend5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pHZ8BBgLaXPliFNudh/giphy.gif"  />
+</div>
+
+###
+
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left">🧠 Residente em Inteligência Artificial (Hub de IA Senai) <br><br>👨‍💻 Cientista de Dados<br><br>🏗️ Engenheiro e Mestre em Programação Aplicada a Estruturas<br><br>📚 Foco em Python, Ciência de Dados e Inteligência Artificial</p>
+
+###
+
+<h2 align="left">Tech Stack</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yukiorodrigo/yukiorodrigo/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yukiorodrigo/yukiorodrigo/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yukiorodrigo/yukiorodrigo/output/pacman-contribution-graph.svg">
+</picture>
+
+###
