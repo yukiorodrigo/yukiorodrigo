@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://tenor.com/pt-BR/view/lou-fi-loufi-gif-11194662644580578340"  />
+  <img height="200" src="<div class="tenor-gif-embed" data-postid="11194662644580578340" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/lou-fi-loufi-gif-11194662644580578340">Lou-fi Loufi GIF</a>from <a href="https://tenor.com/search/lou-fi-gifs">Lou-fi GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>"  />
 </div>
 
 ###
